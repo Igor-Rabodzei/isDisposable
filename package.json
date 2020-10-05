@@ -1,5 +1,5 @@
 {
-  "name": "isDisposable",
+  "name": "is-disposable",
   "version": "1.0.0",
   "description": "Check is disposable an email",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "temporary"
   ],
   "author": "Igor-Rabodzei",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "tldjs": "^2.3.1"
   }
