@@ -1,6 +1,6 @@
 {
   "name": "is-disposable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check is disposable an email",
   "main": "index.js",
   "scripts": {},
@@ -16,5 +16,9 @@
   "license": "MIT",
   "dependencies": {
     "tldjs": "^2.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Igor-Rabodzei/isDisposable"
   }
 }
