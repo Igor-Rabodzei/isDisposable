@@ -1,4 +1,7 @@
 # is-disposable-email-domain
+
+[Link to npm](https://www.npmjs.com/package/is-disposable-email-domain)
+
 A database of free and [disposable](http://en.wikipedia.org/wiki/Disposable_email_address)
 email domains and a handy Node.js module for querying it.
 
