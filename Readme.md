@@ -28,3 +28,19 @@ Domains may only be a member of one list.
 npm install --save is-disposable-email-domain
 ```
 
+```
+const isDisposable = require('is-disposable-email-domain');
+ 
+isDisposable.validate('gmail.com');
+// { disposable: false, free: true, blackList: false }
+
+isDisposable.isFree('gmail.com');
+// true
+ 
+disposable.isDisposable('gmail.com');
+// false
+
+disposable.isBlackList('foo@gmail.com');
+// false
+```
+
