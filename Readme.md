@@ -39,10 +39,10 @@ isDisposable.validate('gmail.com');
 isDisposable.isFree('gmail.com');
 // true
  
-disposable.isDisposable('gmail.com');
+isDisposable.isDisposable('gmail.com');
 // false
 
-disposable.isBlackList('foo@gmail.com');
+isDisposable.isBlackList('foo@gmail.com');
 // false
 ```
 

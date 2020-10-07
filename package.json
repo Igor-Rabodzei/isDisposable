@@ -1,6 +1,6 @@
 {
   "name": "is-disposable-email-domain",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Check is disposable an email",
   "main": "index.js",
   "scripts": {},
